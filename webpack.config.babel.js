@@ -21,8 +21,8 @@ export default {
     }],
   },
   devServer: {
-port: WDS_PORT,
-host: '0.0.0.0',
-historyApiFallback: true,
-},
+    port: WDS_PORT,
+    host: '0.0.0.0',
+    historyApiFallback: true,
+  },
 };
